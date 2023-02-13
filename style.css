@@ -1,0 +1,21 @@
+body{
+    background: rgb(0, 0, 0);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 95vh;
+}
+
+#clock{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+    width: 50%;
+    height: 100px;
+    color: #17D4FE;
+    font-size: 98px ;
+    font-family: orbitron;
+    letter-spacing: 12px;
+}
